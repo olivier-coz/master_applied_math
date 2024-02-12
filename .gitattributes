@@ -1,1 +1,2 @@
+# ignore ipynb as they can be either python or Julia (didn't find a better way to do this, if there is tell me)
 *.ipynb linguist-detectable=false
